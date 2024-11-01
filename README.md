@@ -44,14 +44,14 @@
 </table>
 
 <div align="center">
-<a href="[align="center"]"><img src="./images/workers.png"></a> 
+<a href="[align="center"]"><img  width="320" height="205" src="./images/workers.png"></a> 
 </div>
 
 <!-- Footer -->
 
 <div align="center">
 
-<img width="320" height="205" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="150" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
 ![Visitor Count](https://profile-counter.glitch.me/leozinlima/count.svg)
