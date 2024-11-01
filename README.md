@@ -44,14 +44,14 @@
 </table>
 
 <div align="center">
-<a href="[align="center"]"><img src="https://w7.pngwing.com/pngs/99/246/png-transparent-habbo-game-international-workers-day-laborer-habbo-casino-thumbnail.png"></a> 
+<a href="[align="center"]"><img src="./images/workers.png"></a> 
 </div>
 
 <!-- Footer -->
 
 <div align="center">
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="20px" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
 ![Visitor Count](https://profile-counter.glitch.me/leozinlima/count.svg)
