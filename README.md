@@ -44,7 +44,7 @@
 </table>
 
 <div align="center">
-<a href="[align="center"]"><img  width="320" height="320" src="./images/workers.png"></a> 
+<a href="[align="center"]"><img  width="350" height="320" src="./images/workers.png"></a> 
 </div>
 
 <!-- Footer -->
