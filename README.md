@@ -44,7 +44,7 @@
 </table>
 
 <div align="center">
-<a href="https://www.google.com/search?q=roller+coaster+tycoon+classic&sca_esv=db3f177c98a4bf7a&biw=1920&bih=961&sxsrf=ADLYWIKGIbrV0Jj7LmRyB-RQLnJHFH-_fw%3A1730486923162&ei=iyIlZ9LJCc7Z5OUPnOfEqA8&ved=0ahUKEwiSu9-S5ruJAxXOLLkGHZwzEfUQ4dUDCA8&uact=5&oq=roller+coaster+tycoon+classic&gs_lp=Egxnd3Mtd2l6LXNlcnAiHXJvbGxlciBjb2FzdGVyIHR5Y29vbiBjbGFzc2ljMgQQIxgnMgoQIxiABBgnGIoFMgUQABiABDIFEC4YgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIuQVQgQNYgARwAXgAkAEAmAGBAqABsgOqAQUwLjEuMbgBA8gBAPgBAZgCAqACuAHCAgsQABiABBiwAxiiBJgDAIgGAZAGAZIHAzEuMaAH0xU&sclient=gws-wiz-serp"><img src="https://w7.pngwing.com/pngs/99/246/png-transparent-habbo-game-international-workers-day-laborer-habbo-casino-thumbnail.png"></a> 
+<a href="[align="center"]"><img src="https://w7.pngwing.com/pngs/99/246/png-transparent-habbo-game-international-workers-day-laborer-habbo-casino-thumbnail.png"></a> 
 </div>
 
 <!-- Footer -->
