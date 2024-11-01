@@ -57,10 +57,10 @@
 ![Visitor Count](https://profile-counter.glitch.me/leozinlima/count.svg)
 
 
-<img src="./images/icon.png" alt="Windows 95 Start" height="30" />
+<img width="87px" height="31" src="./images/icon.png" alt="Windows 95 Start" height="30" />
 <!-- "margin-right: whatever;" -->
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img width="88px" height="21" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 
