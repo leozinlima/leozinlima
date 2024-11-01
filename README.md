@@ -21,6 +21,7 @@
 <p>
 
 <img alt="Globe" height="80" src="images/globe.gif">
+<strong>It's beautiful</strong>
 </a>
 </p>
 
