@@ -14,7 +14,6 @@
 <tr>
 <td align="center">
 <a href="https://brunnerliv.io">
-<strong>Visit my personal website </strong>
 <br />
 <br />
 <br />
@@ -30,7 +29,7 @@
 
 <td align="center">
 <a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
-<strong>Listen to cool music</strong>
+<strong>Listen to </strong>
 <br />
 <br />
 
