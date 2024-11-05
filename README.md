@@ -1,6 +1,5 @@
-<!-- "Hero" Header -->
 <div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://github.com/Leozinlima/leozinlima/main/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
   <img height="50" alt="My Name is Leo" src="https://habbofont.net/font/disco/my+name+s+leo+lima.gif" />
@@ -51,7 +50,7 @@
 
 <div align="center">
 
-<img height="150" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="150" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/Leozinlima/leozinlima/main/images/marquee.svg" />
 <br />
 
 ![Visitor Count](https://profile-counter.glitch.me/leozinlima/count.svg)
@@ -59,8 +58,8 @@
 
 <img width="88px" height="31px" src="./images/icon.png" alt="Windows 95 Start" height="30" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<img src="https://raw.githubusercontent.com/Leozinlima/leozinlima/main/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+<img src="https://raw.githubusercontent.com/Leozinlima/leozinlima/main/images/noframes.gif" alt="Microsoft Internet Explorer" />
 
 </div>
