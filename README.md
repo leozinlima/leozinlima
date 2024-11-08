@@ -46,8 +46,6 @@
 <a href="[align="center"]"><img  width="350" height="320" src="./images/workers.png"></a> 
 </div>
 
-<!-- Footer -->
-
 <div align="center">
 
 <img height="150" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/LeozinLima/leozinlima/main/images/marquee.svg" />
